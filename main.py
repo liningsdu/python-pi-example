@@ -15,7 +15,11 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 def main(msg):
+<<<<<<< HEAD
     // Add a different comment
+=======
+    // print a message
+>>>>>>> refs/remotes/origin/main
     print("Hello {}!".format(msg))
 
 main("World")
